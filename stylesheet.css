@@ -7,6 +7,16 @@ body {
     text-align: center;
 }
 
+h1, p, footer {
+    color: white;
+    text-shadow:
+        -2px -2px 0 #f09,
+         2px -2px 0 #f09,
+        -2px  2px 0 #f09,
+         2px  2px 0 #f09;
+}
+
+-2px -2px 0 #f09, 2px -2px 0 #f0b, -2px 2px 0 #f09, 2px 2px 0 #f09
 h1 {
     margin-top: 50px;
     font-family: 'Press Start 2P', cursive;
