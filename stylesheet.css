@@ -1,8 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    background: linear-gradient(135deg, #fffaf0, #f0fff0);
-    font-family: 'Lobster', cursive;
+    background: url('drop.png') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Roboto Mono', monospace;
 }
 
 h1 {
@@ -19,4 +20,5 @@ p {
     margin-top: 30px;
     line-height: 1.5em;
     color: #555;
+    font-family: 'Roboto Mono', monospace;
 }
